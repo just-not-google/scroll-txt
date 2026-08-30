@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/scrolltxt.png" width="100%" alt="AlexRadar Start" />
+  <img src="imgs/scrolltxt.png" width="100%" alt="ScrollTxt Start" />
 </p>
 
 # scroll-txt
