@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="imgs/scrolltxt.png" width="100%" alt="AlexRadar Start" />
+</p>
+
 # scroll-txt
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
